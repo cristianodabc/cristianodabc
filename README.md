@@ -12,7 +12,7 @@ To bring order from chaos. To bind many moving parts into one living thing. To b
 
 I have always favored the cleaner path — the disciplined art of functional design, where each piece knows its purpose, carries no hidden poison, and leaves the world no more broken than it found it.
 
-These days, I keep closest to the old arts of Elixir and Phoenix. Strange and potent mixtures, brewed carefully over steady flame. Useful not for spectacle, but for resilience — for keeping great engines alive when lesser concoctions would burst into smoke and ash before dawn.
+Among the tools and traditions I trust most are the old arts of Elixir and Phoenix. Strange and potent mixtures, brewed carefully over steady flame. Useful not for spectacle, but for resilience — for keeping great engines alive when lesser concoctions would burst into smoke and ash before dawn.
 
 Before all else came the older lessons: caution, vigilance, and the understanding that every fortress carries a weakness somewhere in its stone. A careless builder fears collapse only after the walls begin to crack. A wise one listens for weakness while the mortar is still wet.
 
