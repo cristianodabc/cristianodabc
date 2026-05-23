@@ -4,15 +4,17 @@ Hail, traveler.
 
 Sit by the hearth, if only for a moment. The road is long, and winter follows all men in the end.
 
-For many years, I have labored in the loud and restless kingdoms of code, where startups rise like rival houses—hungry, ambitious, forever at war with time itself.
+For many years, I have wandered the crowded realms of craft and commerce, where ambitious lords raise great machines of trade and power, each believing theirs will outlast the storm.
 
-Mine is a craft of order amidst chaos. Of many moving parts speaking as one. Of systems built to endure long nights, heavy burdens, and the inevitable failures that come for all things beneath the sun.
+Mine is a quieter craft.
 
-I have always favored the cleaner path—the disciplined art of functional design, where each piece knows its purpose, carries no hidden poison, and leaves the world no more broken than it found it.
+To bring order from chaos. To bind many moving parts into one living thing. To build systems that endure long nights, heavy burdens, and the inevitable failures that come for all things beneath the sun.
 
-Elixir and Phoenix are the tools I carry most often now. Reliable companions for harsh winters and crowded kingdoms alike.
+I have always favored the cleaner path — the disciplined art of functional design, where each piece knows its purpose, carries no hidden poison, and leaves the world no more broken than it found it.
 
-Before all else came the old lessons: caution, vigilance, and the understanding that every fortress carries a weakness somewhere in its stone. A careless builder fears collapse only after the walls begin to crack. A wise one listens for weakness while the mortar is still wet.
+These days, I keep closest to the old arts of Elixir and Phoenix. Strange and potent mixtures, brewed carefully over steady flame. Useful not for spectacle, but for resilience — for keeping great engines alive when lesser concoctions would burst into smoke and ash before dawn.
+
+Before all else came the older lessons: caution, vigilance, and the understanding that every fortress carries a weakness somewhere in its stone. A careless builder fears collapse only after the walls begin to crack. A wise one listens for weakness while the mortar is still wet.
 
 ---
 
