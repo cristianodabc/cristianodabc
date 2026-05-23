@@ -1,12 +1,17 @@
 ## Hi, I am Cristiano (/-_・)/D・・・・・------ →
 
 Hail, traveler.
+Sit by the hearth, if only for a moment. The road is long, and winter follows all men in the end.
 
-I am a keeper of hidden craft, tempered through long winters and harder roads. For near a decade I have wandered the halls of forgotten machines, raising great works from silence and ash.
+For many years, I have labored in the loud and restless kingdoms of code, where startups rise like rival houses—hungry, ambitious, forever at war with time itself.
 
-My trade is the forging of strongholds unseen — realms of thought and rune built to endure storm, time, and the folly of careless hands.
+Mine is a craft of order amidst chaos. Of many moving parts speaking as one. Of systems built to endure long nights, heavy burdens, and the inevitable failures that come for all things beneath the sun.
 
-I value sturdy foundations, quiet precision, and work that speaks for itself. No grand boasting. No gilded promises. Only craft worthy of surviving the next age.
+I have always favored the cleaner path—the disciplined art of functional design, where each piece knows its purpose, carries no hidden poison, and leaves the world no more broken than it found it.
+
+Elixir and Phoenix are the tools I carry most often now. Reliable companions for harsh winters and crowded kingdoms alike.
+
+Before all else came the old lessons: caution, vigilance, and the understanding that every fortress carries a weakness somewhere in its stone. A careless builder fears collapse only after the walls begin to crack. A wise one listens for weakness while the mortar is still wet.
 
 ---
 
