@@ -1,6 +1,7 @@
 ## Hi, I am Cristiano (/-_・)/D・・・・・------ →
 
 Hail, traveler.
+
 Sit by the hearth, if only for a moment. The road is long, and winter follows all men in the end.
 
 For many years, I have labored in the loud and restless kingdoms of code, where startups rise like rival houses—hungry, ambitious, forever at war with time itself.
