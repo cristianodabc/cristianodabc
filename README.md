@@ -2,19 +2,17 @@
 
 Hail, traveler.
 
-Sit by the hearth, if only for a moment. The road is long, and winter follows all men in the end.
+Sit by the hearth for a moment. The road is long, and winter follows all men in the end.
 
-For many years, I have wandered the crowded realms of craft and commerce, where ambitious lords raise great machines of trade and power, each believing theirs will outlast the storm.
+For years, I have worked in the crowded realms of craft and commerce, where ambitious lords build great machines of trade and power, each hoping theirs will weather the storm.
 
-Mine is a quieter craft.
+Mine is a quieter craft: bringing order from chaos, binding many moving parts into one, and building systems that endure heavy burdens and inevitable failures.
 
-To bring order from chaos. To bind many moving parts into one living thing. To build systems that endure long nights, heavy burdens, and the inevitable failures that come for all things beneath the sun.
+I favor the cleaner path: functional design, where each piece knows its purpose and carries no hidden poison.
 
-I have always favored the cleaner path — the disciplined art of functional design, where each piece knows its purpose, carries no hidden poison, and leaves the world no more broken than it found it.
+Among the tools I trust most are Elixir and Phoenix. Not for spectacle, but for resilience, keeping great engines alive when lesser work would fail before dawn.
 
-Among the tools and traditions I trust most are the old arts of Elixir and Phoenix. Strange and potent mixtures, brewed carefully over steady flame. Useful not for spectacle, but for resilience — for keeping great engines alive when lesser concoctions would burst into smoke and ash before dawn.
-
-Before all else came the older lessons: caution, vigilance, and the understanding that every fortress carries a weakness somewhere in its stone. A careless builder fears collapse only after the walls begin to crack. A wise one listens for weakness while the mortar is still wet.
+And before all else comes caution. Every fortress has a weakness somewhere in its stone. A careless builder finds it when the walls crack. A wise one finds it while the mortar is still wet.
 
 ---
 
