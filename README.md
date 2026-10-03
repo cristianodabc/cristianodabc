@@ -13,6 +13,7 @@ I favor the clean path, functional design, where each piece knows its purpose an
 Elixir and Phoenix are my trusted tools. Not for spectacle, but for resilience: keeping engines alive when lesser work fails before dawn.
 
 Caution comes before all else. Every fortress has a weak stone. The careless builder finds it when the walls crack. The wise one finds it while the mortar is still wet.
+
 ---
 
 ### What I've built
