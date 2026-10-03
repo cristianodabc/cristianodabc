@@ -30,6 +30,7 @@ And before all else comes caution. Every fortress has a weakness somewhere in it
 
 ### Contributing to
 
+- [Jido](https://github.com/agentjido/jido) — Elixir agent framework; added [agent test DSL helpers](https://github.com/agentjido/jido/pull/73) and [expanded them](https://github.com/agentjido/jido/pull/75).
 - [Bedrock](https://github.com/bedrock-kv/bedrock) — Embedded distributed key-value store; fixed [materializer recovery](https://github.com/bedrock-kv/bedrock/pull/76).
 - [AppSignal for Elixir](https://github.com/appsignal/appsignal-elixir) — Updated the [Decimal dependency](https://github.com/appsignal/appsignal-elixir/pull/1039).
 
