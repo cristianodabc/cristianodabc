@@ -16,10 +16,29 @@ And before all else comes caution. Every fortress has a weakness somewhere in it
 
 ---
 
+### What I've built
+
+- [aludel](https://github.com/cristianodabc/aludel) — LLM evaluations, prompt tests, model comparisons, and observability for Elixir and Phoenix.
+- [dialekt](https://github.com/cristianodabc/dialekt) — AI language tutor with CEFR levels, register control, and pronunciation help.
+- [beam-console](https://github.com/cristianodabc/beam-console) — Embeddable process recorder and map for BEAM applications.
+- [codex-elixir-phoenix](https://github.com/cristianodabc/codex-elixir-phoenix) — Portable Elixir and Phoenix skills for Codex.
+- [ancient-stones](https://github.com/cristianodabc/ancient-stones) — World-building dashboard for RPG settings and fiction worlds.
+- [jido_class](https://github.com/cristianodabc/jido_class) — Story-driven Jido tutorial that builds an autonomous game studio.
+- [stealth-kitty](https://github.com/cristianodabc/stealth-kitty) — Encrypted Elixir client and terminal chat for Proton Lumo.
+
+### Contributing to
+
+- [Jizoku](https://github.com/agentjido/jizoku) — Durable workflows for Elixir and Jido; added [external event waits](https://github.com/agentjido/jizoku/pull/490) and [search attributes](https://github.com/agentjido/jizoku/pull/494).
+- [Kansoku](https://github.com/agentjido/kansoku) — Operational dashboard for Jizoku; worked on [dashboard reliability](https://github.com/agentjido/kansoku/pull/101).
+- [Bedrock](https://github.com/bedrock-kv/bedrock) — Embedded distributed key-value store; fixed [materializer recovery](https://github.com/bedrock-kv/bedrock/pull/76).
+- [AppSignal for Elixir](https://github.com/appsignal/appsignal-elixir) — Updated the [Decimal dependency](https://github.com/appsignal/appsignal-elixir/pull/1039).
+
+### Connect
+
 <p><a href="https://www.linkedin.com/in/ccarvalho-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=ccarvalho-eng&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/></p>
+<img src="https://komarev.com/ghpvc/?username=cristianodabc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/></p>
 
 ---
 
