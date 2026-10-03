@@ -2,18 +2,17 @@
 
 Hail, traveler.
 
-Sit by the hearth for a moment. The road is long, and winter follows all men in the end.
+Sit a while. The road is long, and winter follows all men.
 
-For years, I have worked in the crowded realms of craft and commerce, where ambitious lords build great machines of trade and power, each hoping theirs will weather the storm.
+For years I have worked among ambitious lords building great machines of trade, each hoping theirs survives the storm.
 
-Mine is a quieter craft: bringing order from chaos, binding many moving parts into one, and building systems that endure heavy burdens and inevitable failures.
+My craft is quieter: pulling order from chaos, binding many moving parts into one, building systems that endure heavy loads and inevitable failures.
 
-I favor the cleaner path: functional design, where each piece knows its purpose and carries no hidden poison.
+I favor the clean path, functional design, where each piece knows its purpose and carries no hidden poison.
 
-Among the tools I trust most are Elixir and Phoenix. Not for spectacle, but for resilience, keeping great engines alive when lesser work would fail before dawn.
+Elixir and Phoenix are my trusted tools. Not for spectacle, but for resilience: keeping engines alive when lesser work fails before dawn.
 
-And before all else comes caution. Every fortress has a weakness somewhere in its stone. A careless builder finds it when the walls crack. A wise one finds it while the mortar is still wet.
-
+Caution comes before all else. Every fortress has a weak stone. The careless builder finds it when the walls crack. The wise one finds it while the mortar is still wet.
 ---
 
 ### What I've built
