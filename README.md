@@ -18,6 +18,8 @@ And before all else comes caution. Every fortress has a weakness somewhere in it
 
 ### What I've built
 
+- [Jizoku](https://github.com/agentjido/jizoku) — Durable workflow runtime for Elixir and Jido, built from scratch and later transferred to Agent Jido.
+- [Kansoku](https://github.com/agentjido/kansoku) — Operational dashboard for Jizoku, built from scratch and later transferred to Agent Jido.
 - [aludel](https://github.com/cristianodabc/aludel) — LLM evaluations, prompt tests, model comparisons, and observability for Elixir and Phoenix.
 - [dialekt](https://github.com/cristianodabc/dialekt) — AI language tutor with CEFR levels, register control, and pronunciation help.
 - [beam-console](https://github.com/cristianodabc/beam-console) — Embeddable process recorder and map for BEAM applications.
@@ -28,8 +30,6 @@ And before all else comes caution. Every fortress has a weakness somewhere in it
 
 ### Contributing to
 
-- [Jizoku](https://github.com/agentjido/jizoku) — Durable workflows for Elixir and Jido; added [external event waits](https://github.com/agentjido/jizoku/pull/490) and [search attributes](https://github.com/agentjido/jizoku/pull/494).
-- [Kansoku](https://github.com/agentjido/kansoku) — Operational dashboard for Jizoku; worked on [dashboard reliability](https://github.com/agentjido/kansoku/pull/101).
 - [Bedrock](https://github.com/bedrock-kv/bedrock) — Embedded distributed key-value store; fixed [materializer recovery](https://github.com/bedrock-kv/bedrock/pull/76).
 - [AppSignal for Elixir](https://github.com/appsignal/appsignal-elixir) — Updated the [Decimal dependency](https://github.com/appsignal/appsignal-elixir/pull/1039).
 
