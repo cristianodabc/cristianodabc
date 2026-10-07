@@ -16,6 +16,12 @@ Caution comes before all else. Every fortress has a weak stone. The careless bui
 
 ---
 
+### Featured project
+
+<a href="https://github.com/cristianodabc/narrated-explainers"><img src="assets/narrated-explainers-preview.png" width="560" alt="Sample whiteboard frame from Narrated Explainers" /></a>
+
+**[Narrated Explainers](https://github.com/cristianodabc/narrated-explainers)** turns an LLM-written script into a documentary-style whiteboard video. The local renderer adds animated visuals and Kokoro narration, with a consistent 1080p output. [MIT licensed](https://github.com/cristianodabc/narrated-explainers/blob/main/LICENSE).
+
 ### What I've built
 
 - [Jizoku](https://github.com/agentjido/jizoku) — Durable workflow runtime for Elixir and Jido, built from scratch and later transferred to Agent Jido.
