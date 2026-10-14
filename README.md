@@ -38,8 +38,7 @@ Caution comes before all else. Every fortress has a weak stone. The careless bui
 <p><a href="https://www.linkedin.com/in/ccarvalho-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=cristianodabc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/></p>
-
+  
 ---
 
 ### ⚔️ Tools of the Trade
