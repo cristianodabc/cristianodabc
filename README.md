@@ -2,7 +2,7 @@
 
 Hail, traveler.
 
-Sit a while. The road is long, and winter follows all men.
+Sit by the hearth for a moment. The road is long, and winter follows all men in the end.
 
 For years I have worked among ambitious lords building great machines of trade, each hoping theirs survives the storm.
 
