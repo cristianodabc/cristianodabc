@@ -6,13 +6,13 @@ Sit by the hearth for a moment. The road is long, and winter follows all men in 
 
 For years I have worked among ambitious lords building great machines of trade, each hoping theirs survives the storm.
 
-My craft is quieter: pulling order from chaos, binding many moving parts into one, building systems that endure heavy loads and inevitable failures.
+My craft is to weave order from chaos, binding scattered threads into systems that endure the passing of seasons.
 
-I favor the clean path, functional design, where each piece knows its purpose and carries no hidden poison.
+I favor simplicity, where every piece finds its purpose, like roots entwined beneath an ancient oak.
 
-Elixir and Phoenix are my trusted tools. Not for spectacle, but for resilience: keeping engines alive when lesser work fails before dawn.
+Elixir and Phoenix are my trusted companions, chosen not for glory, but for resilience, like sacred fires tended through the longest nights.
 
-Caution comes before all else. Every fortress has a weak stone. The careless builder finds it when the walls crack. The wise one finds it while the mortar is still wet.
+For even the strongest walls may fall to a single forgotten stone. The druids knew well: what stands tall must first take root deep.
 
 ---
 
