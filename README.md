@@ -2,38 +2,15 @@
 
 Hail, traveler.
 
-Sit by the hearth for a moment. The road is long, and winter follows all men in the end.
+Come, sit beside the fire. The road is long, and winter comes for us all.
 
-For years I have worked among ambitious lords building great machines of trade, each hoping theirs survives the storm.
+For years I've helped ambitious lords build great engines of trade, each hoping theirs might outlast the storms.
 
-My craft is to weave order from chaos, binding scattered threads into systems that endure the passing of seasons.
+My craft is to weave order from chaos, guided by the principles of functional programming, shaping systems that endure like ancient oaks against the wind.
 
-I favor simplicity, where every piece finds its purpose, like roots entwined beneath an ancient oak.
+The old druids knew it well: **what would weather the centuries must first take root deep.**
 
-Elixir and Phoenix are my trusted companions, chosen not for glory, but for resilience, like sacred fires tended through the longest nights.
-
-For even the strongest walls may fall to a single forgotten stone. The druids knew well: what stands tall must first take root deep.
-
----
-
-### What I've built
-
-- [Jizoku](https://github.com/agentjido/jizoku) — Durable workflow runtime for Elixir and Jido, built from scratch and later transferred to Agent Jido.
-- [Kansoku](https://github.com/agentjido/kansoku) — Operational dashboard for Jizoku, built from scratch and later transferred to Agent Jido.
-- [aludel](https://github.com/cristianodabc/aludel) — LLM evaluations, prompt tests, model comparisons, and observability for Elixir and Phoenix.
-- [dialekt](https://github.com/cristianodabc/dialekt) — AI language tutor with CEFR levels, register control, and pronunciation help.
-- [beam-console](https://github.com/cristianodabc/beam-console) — Embeddable process recorder and map for BEAM applications.
-- [codex-elixir-phoenix](https://github.com/cristianodabc/codex-elixir-phoenix) — Portable Elixir and Phoenix skills for Codex.
-- [ancient-stones](https://github.com/cristianodabc/ancient-stones) — World-building dashboard for RPG settings and fiction worlds.
-- [jido_class](https://github.com/cristianodabc/jido_class) — Story-driven Jido tutorial that builds an autonomous game studio.
-- [stealth-kitty](https://github.com/cristianodabc/stealth-kitty) — Encrypted Elixir client and terminal chat for Proton Lumo.
-
-### Contributing to
-
-- [Jido](https://github.com/agentjido/jido) — Elixir agent framework; added [agent test DSL helpers](https://github.com/agentjido/jido/pull/73) and [expanded them](https://github.com/agentjido/jido/pull/75).
-- [Bedrock](https://github.com/bedrock-kv/bedrock) — Embedded distributed key-value store; fixed [materializer recovery](https://github.com/bedrock-kv/bedrock/pull/76).
-
-### Connect
+### Cross Paths
 
 <p><a href="https://www.linkedin.com/in/ccarvalho-dev/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -43,7 +20,9 @@ For even the strongest walls may fall to a single forgotten stone. The druids kn
 
 ### ⚔️ Tools of the Trade
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)
 ![Phoenix](https://img.shields.io/badge/Phoenix-F35421?style=flat&logo=phoenixframework&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-316192?style=flat&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)
