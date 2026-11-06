@@ -6,7 +6,7 @@ Come, sit beside the fire. The road is long, and winter comes for us all.
 
 For years I've helped ambitious lords build great engines of trade, each hoping theirs might outlast the storms.
 
-My craft is to weave order from chaos, guided by the principles of functional programming, shaping systems that endure like ancient oaks against the wind.
+My craft is to weave simple, immutable pieces together, each passing whispers to the next, shaping systems that stand like ancient oaks against the wind.
 
 The old druids knew it well: **what would weather the centuries must first take root deep.**
 
